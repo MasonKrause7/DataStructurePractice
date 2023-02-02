@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/ImplementLinkedListPractice.iml" filepath="$PROJECT_DIR$/ImplementLinkedListPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VectorImplementation.iml" filepath="$PROJECT_DIR$/VectorImplementation.iml" />
     </modules>
   </component>
 </project>
